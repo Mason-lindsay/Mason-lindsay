@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mason-lindsay
 - 👀 I’m interested in creating word games :) also Machine learning
-- 🌱 I’m currently learning Machine Learning fine tuning and training techniques!
+- 🌱 I’m currently learning Machine Learning fine tuning and training techniques and Python!
 
 <!---
 Mason-lindsay/Mason-lindsay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
